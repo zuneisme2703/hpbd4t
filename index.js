@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Nay sinh nhật bạn 4T á nên mình có vài lời chúc mún gửi đến bạn nè!" //Lời mở đầu cho bức thư
-const mainContentLetter = "Gửi lời nhắn nhủ đến người bạn bạn yêu thương." //Nội dung của bức thư
+const mainContentLetter = "hmmmm ch bt chúc gì" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
